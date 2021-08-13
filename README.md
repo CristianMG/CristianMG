@@ -1,6 +1,6 @@
 ### Hi, I'm Cristian M G 👋
 
-## I'm a Sport man, Developer, and Consultant!!
+## I'm Sportman, Developer, and Consultant!!
 
 - :beginner: I started to work in app development from 2014 until now. I'm working as an Android native developer full time.
 - 🌱 Interested in: Blockchain and decentralized developing, I like smart contracts and blockchain in general, I think this is the future of economic world and I would like to take part of this change.
@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I love doing sports like running, gym, cycling.
 - :dancer: I like dancing.
 
-to### If you have something you think can be interesting to me, give me a touch.
+### Have something interesting to me, give me a touch.
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/cristian-mg/)
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/cristian.menarguez/)
