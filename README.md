@@ -1,11 +1,11 @@
-### Hi, I'm Cristian M G 👋
+### Hi, I am Cristian M G 👋
 
-## I'm Sportman, Developer, and Consultant!!
+## I am Sportman, Developer, and Consultant!!
 
-- :beginner: I started to work in app development from 2014 until now. I'm working as an Android native developer full time.
+- :beginner: I started to work in app development from 2014 until now. I am working as an Android native developer full time.
 - 🌱 Interested in: Blockchain and decentralized developing, I like smart contracts and the world of blockchain in general, I think this will be a big change in the future of economic world and I would like to take part of this change.
-- 👯 Look for: I’m looking to collaborate with people interested in "daaps" Android developing and blockchain in general.
-- 🥅 2021 Goals: Contribute more to Open Source projects, and learning in fields I'm interested.Also I would like to improve more my English.
+- 👯 Look for: I am looking to collaborate with people interested in "daaps" Android developing and blockchain in general.
+- 🥅 2021 Goals: Contribute more to Open Source projects, and learning in fields I am interested.Also I would like to improve more my English.
 - ⚡ Fun fact: I love doing sports like running, gym, cycling.
 - :dancer: I like dancing.
 
