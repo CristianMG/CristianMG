@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I love doing sports like running, gym, cycling.
 - :dancer: I like dancing.
 
-### If you have something you think can be interesting for me, give me a touch.
+to### If you have something you think can be interesting to me, give me a touch.
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/cristian-mg/)
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/cristian.menarguez/)
@@ -18,28 +18,28 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Android studio" width="26px" src="./icons/androidstudio.svg"/>
+[<img align="left" alt="Android studio" width="26px" src="./icons/androidstudio.svg"/>](AndroidStudio)
 <br />
 
-<img align="left" alt="Android" width="26px" src="./icons/android.svg" />
+[<img align="left" alt="Android" width="26px" src="./icons/android.svg" />](Android)
 <br />
 
-<img align="left" alt="Kotlin" width="26px" src="./icons/kotlin.svg" />
+[<img align="left" alt="Kotlin" width="26px" src="./icons/kotlin.svg" />](Kotlin)
 <br />
 
-<img align="left" alt="Reactivex" width="26px" src="./icons/reactivex.svg" />
+[<img align="left" alt="Reactivex" width="26px" src="./icons/reactivex.svg" />](Reactivex)
 <br />
 
-<img align="left" alt="Material UI" width="26px" src="./icons/materialui.svg" />
+[<img align="left" alt="Material UI" width="26px" src="./icons/materialui.svg" />](MaterialUi)
 <br />
 
-<img align="left" alt="Java" width="26px" src="./icons/java.svg" />
+[<img align="left" alt="Java" width="26px" src="./icons/java.svg" />](Java)
 <br />
 
-<img align="left" alt="Javascript" width="26px" src="./icons/javascript.svg" />
+[<img align="left" alt="Javascript" width="26px" src="./icons/javascript.svg" />](Javascript)
 <br />
 
-<img align="left" alt="Node" width="26px" src="./icons/nodedotjs.svg" />
-
+[<img align="left" alt="Node" width="26px" src="./icons/nodedotjs.svg" />](Node)
 <br />
-<img align="left" alt="Node" width="26px" src="./icons/bitcoin.svg" />
+
+[<img align="left" alt="Node" width="26px" src="./icons/bitcoin.svg" />](Bitcoin)
