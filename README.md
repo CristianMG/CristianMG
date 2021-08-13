@@ -9,14 +9,14 @@
 - ⚡ Fun fact: I love doing sports like running, gym, cycling.
 - :dancer: I like dancing.
 
-### Have something interesting to me, give me a touch.
+## Have something interesting to me, give me a touch.
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/cristian-mg/)
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/cristian.menarguez/)
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" />](https://discordapp.com/users/CristianMG#6028)
 <br />
 
-### Languages and Tools:
+## Languages and Tools:
 
 [<img align="left" alt="Android studio" width="26px" src="./icons/androidstudio.svg"/>](AndroidStudio)
 <br />
