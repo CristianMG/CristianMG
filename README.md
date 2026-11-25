@@ -1,3 +1,5 @@
+> 🧑 *Human here, not an AI. Probably. I just work with a lot of them.*
+
 <h1 align="center">Hi, I am Cristian M G 👋</h1>
 
 <p align="center">
