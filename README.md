@@ -1,29 +1,84 @@
-### Hi, I am Cristian M G 👋
+<h1 align="center">Hi, I am Cristian M G 👋</h1>
 
-## I am Sportman, Developer, and Consultant!!
+<p align="center">
+  <b>Sportsman 🏃 · Developer 📱 · Consultant 🧠 · AI Agents Builder 🤖</b>
+</p>
 
-- :beginner: I started to work in app development from 2014 until now. I am working as an Android native developer full time.
-- 🌱 Interested in: Blockchain and decentralized developing, I like smart contracts and the world of blockchain in general, I think this will be a big change in the future of economic world and I would like to take part of this change.
-- 👯 Look for: I am looking to collaborate with people interested in "daaps" Android developing and blockchain in general.
-- 🥅 2021 Goals: Contribute more to Open Source projects, and learning in fields I am interested.Also I would like to improve more my English.
-- ⚡ Fun fact: I love doing sports like running, gym, cycling and dancing. :dancer:
+<p align="center">
+  <a href="https://www.linkedin.com/in/cristian-mg/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.instagram.com/cristian.menarguez/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://discordapp.com/users/CristianMG#6028"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+</p>
 
-## Have something interesting to me, give me a touch.
+```text
+          .-""""-.
+         / [o][o] \      < beep boop. Cristian is busy
+        |    ==    |       orchestrating AI agents     
+         \  '--'  /        (or out running, who knows)
+        .-'------'-.
+       /| [ AI  ] |\       +-------------------------+
+      / |  ____   | \      | $ agents --spawn 5      |
+     *  | |____|  |  *     | > planner : planning... |
+        |_________|        | > coder   : coding x3   |
+         |__| |__|         | > review  : reviewing   |
+        /___| |___\        | > [OK] merged. coffee?  |
+   ~~~~~~~~~~~~~~~~~~~~~   +-------------------------+
+     while (alive) {
+       code(); train(); dance();
+     }
+```
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/cristian-mg/)
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/cristian.menarguez/)
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" />](https://discordapp.com/users/CristianMG#6028)
-<br />
+---
 
-## Languages and Tools:
+## 🧬 About me
 
-[<img align="left" alt="Android studio" width="26px" src="./icons/androidstudio.svg"/>](AndroidStudio)
-[<img align="left" alt="Android" width="26px" src="./icons/android.svg" />](Android)
-[<img align="left" alt="Kotlin" width="26px" src="./icons/kotlin.svg" />](Kotlin)
-[<img align="left" alt="Reactivex" width="26px" src="./icons/reactivex.svg" />](Reactivex)
-[<img align="left" alt="Material UI" width="26px" src="./icons/materialui.svg" />](MaterialUi)
-[<img align="left" alt="Java" width="26px" src="./icons/java.svg" />](Java)
-[<img align="left" alt="Javascript" width="26px" src="./icons/javascript.svg" />](Javascript)
-[<img align="left" alt="Node" width="26px" src="./icons/nodedotjs.svg" />](Node)
-[<img align="left" alt="Node" width="26px" src="./icons/bitcoin.svg" />](Bitcoin)
-<br />
+- 📱 Building apps since **2014**. Native **Android** developer at heart, now also **Kotlin Multiplatform**.
+- 🤖 Today my focus is **AI agents**: multi-agent orchestration, coding agents working as a team, MCP servers, and LLM-powered workflows that ship real software.
+- 🧠 Consultant: helping teams bring AI agents into their development process, from prompts and skills to fully automated pipelines.
+- ⛓️ Still curious about **blockchain** and decentralized development — smart contracts changed how I think about trust in software.
+- 👯 Looking to collaborate with people into **agentic AI**, **developer tooling** and **mobile**.
+- ⚡ Fun fact: I love sports — running, gym, cycling and dancing 🕺
+
+## 🥅 2026 Goals
+
+- 🤖 Push autonomous coding agents from "assistant" to "teammate".
+- 🌍 Contribute more to Open Source, especially AI & MCP tooling.
+- 🗣️ Keep improving my English.
+
+## 🤖 AI & Agents
+
+<p>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude"/>
+  <img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini"/>
+  <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="Model Context Protocol"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+</p>
+
+## 🛠️ Languages & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,java,python,js,ts,nodejs,materialui,git,github,docker,vscode&perline=12" alt="Languages and tools"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android"/>
+  <img src="https://img.shields.io/badge/Kotlin%20Multiplatform-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin Multiplatform"/>
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose"/>
+  <img src="https://img.shields.io/badge/ReactiveX-B7178C?style=flat-square&logo=reactivex&logoColor=white" alt="ReactiveX"/>
+  <img src="https://img.shields.io/badge/Bitcoin-F7931A?style=flat-square&logo=bitcoin&logoColor=white" alt="Bitcoin"/>
+</p>
+
+## 📊 GitHub Stats
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=CristianMG&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianMG&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+</p>
+
+---
+
+<p align="center"><i>Have something interesting for me? Give me a touch. 🤝</i></p>
